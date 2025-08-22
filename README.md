@@ -13,8 +13,8 @@
 
 ## Kullanılan Teknolojiler
 - C#  
-- .NET Framework  
 - Windows Forms
+- MSSQL
 
 ---
 
