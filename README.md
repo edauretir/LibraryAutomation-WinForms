@@ -1,6 +1,6 @@
 ## LibraryAutomation-WinForms
 
-> Bu proje 2020 yılında okul ödevi olarak geliştirilmiş, benim ilk Windows Forms projemdir. Temel CRUD işlemlerini öğrenmek ve veri yönetimini butonlar ve formlar üzerinden uygulamak amacıyla yapılmıştır.
+> Bu proje 2022 yılında okul ödevi olarak geliştirilmiş, benim ilk Windows Forms projemdir. Temel CRUD işlemlerini öğrenmek ve veri yönetimini butonlar ve formlar üzerinden uygulamak amacıyla yapılmıştır.
 
 ---
 
